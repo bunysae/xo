@@ -20,6 +20,8 @@ Uses [ESLint](https://eslint.org) underneath, so issues regarding rules should b
 
 ![](https://raw.githubusercontent.com/sindresorhus/eslint-formatter-pretty/master/screenshot.png)
 
+Should not be pushed
+
 ## Highlights
 
 - Beautiful output.
